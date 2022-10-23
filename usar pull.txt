@@ -1,2 +1,4 @@
 esto es un archivo para usar pull
 fin
+	tabulado1
+    tabulado2
