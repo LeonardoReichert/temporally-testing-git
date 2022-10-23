@@ -2,3 +2,6 @@ esto es un archivo para usar pull
 fin
 	tabulado1
     tabulado2
+
+Esto esta en una nueva rama
+nuevo commit a la rama
