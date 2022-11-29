@@ -1,4 +1,4 @@
 # temporally-testing-git
 this is for learning of git
 
-new line
+new line other txt
